@@ -1,0 +1,23 @@
+ul {
+    padding-inline-start: 0;
+    list-style: none;
+}
+
+.score, .click {
+    display: flex;
+    justify-content: center;
+}
+
+.cell {
+    background-color: skyblue;
+    width: 100px;
+    height: 100px;
+    border: 1px solid greenyellow;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+}
